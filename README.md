@@ -9,6 +9,6 @@ The goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy 
 ##### Gathering, assessing and cleaning the data (Data wrangling).
 ##### Storing, analyzing, and visualizing the wrangled data.
 ### Reporting for the project
-- Produced analysis and visualizations in the Jupyter Notebook *wrangle_act1.ipynb* along with insights extracted from them.  
-- Created a report called *wrangle_report.pdf* that briefly describes my wrangling efforts. This is was framed as an internal document.    
-- Created a report called *act_report.pdf* that communicates the insights and displays the visualization(s) produced from the wrangled data. This was framed as an external document, like a blog post or magazine article, for example.
+- Produced analysis and visualizations in the Jupyter Notebook *wrangle_act1.ipynb* in the project folder along with insights extracted from them.  
+- Created a report called *wrangle_report.pdf* in theproject folder that briefly describes my wrangling efforts. This is was framed as an internal document.    
+- Created a report called *act_report.pdf* in the project folder that communicates the insights and displays the visualization(s) produced from the wrangled data. This was framed as an external document, like a blog post or magazine article, for example.
